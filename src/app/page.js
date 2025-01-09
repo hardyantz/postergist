@@ -9,7 +9,7 @@ export default function Home() {
               <nav>
                 <ul className="flex flex-wrap justify-center gap-10">
                   <li className="font-semibold tracking-tight text-slate-800">
-                    <a href="/">Articles</a>
+                    <a href="/article">Articles</a>
                   </li>
                   <li className="font-semibold tracking-tight text-slate-800">
                     <a href="/about">About</a>
